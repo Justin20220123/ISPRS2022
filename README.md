@@ -1,4 +1,4 @@
-# coding for ISPRS2022-Parameters Selection of Touzi Decomposition and Distribution Improved Auto Encoder for PolSAR Image Classification
+# coding for ISPRS2022-Parameter Selection of Touzi Decomposition and Distribution Improved Auto Encoder for PolSAR Image Classification
 # Copyright belongs to Wang Jianlong
 
 main program is demo_ESAR_Justin_LatestVersion20201104.m!!!
